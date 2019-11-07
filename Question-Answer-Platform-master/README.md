@@ -22,4 +22,3 @@ Please make your changes in a specific branch and request to pull into master! I
 
 # License
 Interrogate Inc. website, its design and its code all are licensed under the [MIT license.](https://github.com/Shivam010/Question-Answer-Platform/blob/master/LICENSE) 
-# Q-A
